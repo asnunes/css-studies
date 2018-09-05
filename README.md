@@ -1,3 +1,3 @@
 # css-studies
 
-Some css examples.
+Some CSS examples.
